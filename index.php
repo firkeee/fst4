@@ -16,6 +16,8 @@ and open the template in the editor.
             // setup Propel
             require_once 'generated-conf/config.php';
             
+            //just testing commits to GitHub
+            
             /*CRUD*/
             echo '<h4>Basic CRUD implementation with Propel</h4><br/>';
             
